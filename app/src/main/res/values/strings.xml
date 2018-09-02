@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World App</string>
+    <string name="hello_from_milind">Hello From Milind!</string>
+    <string name="change_text_color">Change Text Color</string>
+    <string name="change_view_color">Change View Color</string>
+    <string name="change_text_string">Change Text String</string>
+</resources>
